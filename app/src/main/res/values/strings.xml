@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VoiceChanger</string>
+    <string name="success">録音内容を保存しました</string>
+    <string name="error">録音を開始できません</string>
+    <string name="option_menu_record_list">録音リスト</string>
+    <string name="context_menu_rename">名前の変更</string>
+    <string name="context_menu_playback">再生</string>
+    <string name="context_menu_delete">削除</string>
+    <string name="title_activity_recording_list">RecordingListActivity</string>
+    <string name="media_play_name">Please select to list item.</string>
+</resources>
